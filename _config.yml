@@ -2,15 +2,15 @@ title: Somendra Tripathi
 description: My Personal Blog
 author: Somendra Tripathi
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/Somendratripathi/
+about: Data Scientist
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
+disqus_shortname: aboutsom
 google_analytics: UA-72862926-1
 
 share:
